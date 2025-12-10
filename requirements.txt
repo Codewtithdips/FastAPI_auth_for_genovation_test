@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+passlib
+sqlmodel
+sqlalchemy
+httpx==0.24.1
+python-dotenv==1.0.0
+pydantic==1.10.11
+requests
+jwt
